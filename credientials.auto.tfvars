@@ -1,0 +1,4 @@
+subscription_id = "XXXXXXXXXX-XXXXXXXXXXX-XXXXXXXXX"
+client_id       = "XXXXXXXXXX-XXXXXXXXXXX-XXXXXXXXX" # appId
+client_secret   = "XXXXXXXXXX-XXXXXXXXXXX-XXXXXXXXX" # password
+tenant_id       = "XXXXXXXXXX-XXXXXXXXXXX-XXXXXXXXX" # tenant
